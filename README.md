@@ -10,4 +10,4 @@ cwn-flyer is a small ReactJS application built for Urban Engine. The goal of thi
 
 # Contributors
 
-This project was built and maintained by Urban Engine developers, [David Jones](https://github.com/davidhjones) and [Tyler Hughes](https://github.com/tylerbhughes).
+This project was built and maintained by Urban Engine developers, [David Jones](https://github.com/davidhjones) and [Tyler](https://github.com/PallasStreams).
